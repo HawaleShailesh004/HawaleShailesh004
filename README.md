@@ -71,7 +71,7 @@ Hey there! I'm **Shailesh Hawale** – a curious developer who loves turning rea
 > A complete exam preparation platform that helps students extract questions from PDFs using OCR + LLMs, generate answers, and track revision.
 
 - 💡 AI + MERN based
-- 🔗 [GitHub Repo](https://github.com/HawaleShailesh004/ExamMitra-MERN)
+- 🔗 [GitHub Repo](https://github.com/HawaleShailesh004/Exam-Mitra-MERN)
 - 🌐 [Live Demo](https://exammitra-h.vercel.app)
 - 📦 Status: `✅ Completed`, `Deployed`, `Mobile Responsive`
 

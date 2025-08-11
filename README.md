@@ -67,12 +67,12 @@ Hey there! I'm **Shailesh Hawale** – a curious developer who loves turning rea
 <!-- Projects -->
 ## 🚀 Featured Project
 
-### ✨ [ExamMitra](https://exammira.vercel.app) `Completed`
+### ✨ [ExamMitra](https://exammitra-h.vercel.app) `Completed`
 > A complete exam preparation platform that helps students extract questions from PDFs using OCR + LLMs, generate answers, and track revision.
 
 - 💡 AI + MERN based
-- 🔗 [GitHub Repo](https://github.com/HawaleShailesh004/ExamMitra)
-- 🌐 [Live Demo](https://exammira.vercel.app)
+- 🔗 [GitHub Repo](https://github.com/HawaleShailesh004/ExamMitra-MERN)
+- 🌐 [Live Demo](https://exammitra-h.vercel.app)
 - 📦 Status: `✅ Completed`, `Deployed`, `Mobile Responsive`
 
 ---

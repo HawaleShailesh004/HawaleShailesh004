@@ -90,7 +90,7 @@ Hey there! I'm **Shailesh Hawale** – a problem solver passionate about craftin
 </p>
 
 <p align="center">
-<strong>Open to internships & entry-level Full Stack Developer roles for 2025 </strong> <br><br>
+<strong>Open to internships & entry-level Full Stack Developer roles for 2025 </strong> <br>
 📧 Drop me an email — let's build something impactful together!
 </p>
 
@@ -98,6 +98,6 @@ Hey there! I'm **Shailesh Hawale** – a problem solver passionate about craftin
   <br>
   Thanks for visiting my profile! ❤️
   <br>
-  <br>
+
   <img src="https://img.shields.io/badge/Last%20Updated-August%202025-blueviolet?style=flat-square" />
 </p>

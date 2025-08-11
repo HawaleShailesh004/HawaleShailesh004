@@ -1,6 +1,6 @@
-<p align="center">
+<h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Shailesh+Hawale+%F0%9F%91%8B;MERN+Stack+Developer;Passionate+about+Building+Real-World+Solutions;Turning+Ideas+into+Scalable+Applications" alt="Typing SVG" />
-</p>
+</h3>
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/158850391?v=4" width="230" height="230" style="border-radius: 50%;" />
